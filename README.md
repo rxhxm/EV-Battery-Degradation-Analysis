@@ -1,8 +1,5 @@
 # This content has been converted from a PDF included in the repository and is therefore not formatted entirely correctly. For the best version of this analysis please refer to the PDF called "Final Report". Thank you.
 
-
-# Math 189 Final report
-
 Team  members : R o h a m  M e h r a b i, X u a n r u n  Q u ,  Z i x u a n  R a o 
 
 ## 1. Statement of the Problem
